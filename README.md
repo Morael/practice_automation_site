@@ -12,25 +12,25 @@ After I finish all of Home Page test cases (18), my plan is to create other test
 
 POM model at this point:
 
->[Practice automation]
+[Practice automation]
 => [_Pages]
   
-  -> shopPage_py
+  .. shopPage_py
   
-  -> homePage.py
+  .. homePage.py
   
-  -> loginPage.py
+  .. loginPage.py
   
-  -> regPage.py
+  .. regPage.py
   
-  -> accountPage.py
+  .. accountPage.py
   
 => [_Reports]
   
-  -> TestResults___main__.HomeTest_2020-10-19_11-05-19.html
+  .. TestResults___main__.HomeTest_2020-10-19_11-05-19.html
 
 => [_Tests]
   
-  -> tests.py
+  .. tests.py
 
 Based on: https://www.youtube.com/watch?v=BURK7wMcCwU&t=2752s
