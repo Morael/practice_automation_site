@@ -9,3 +9,5 @@ http://practice.automationtesting.in/test-cases/
 
 At this moment I have created 10 tests based on POM model in the table Home Page.
 After I finish all of Home Page test cases (18), my plan is to create other test cases using pytest module. 
+
+Based on: https://www.youtube.com/watch?v=BURK7wMcCwU&t=2752s
