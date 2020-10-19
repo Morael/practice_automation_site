@@ -24,9 +24,13 @@ POM model at this point:
   -> regPage.py
   
   -> accountPage.py
+  
 => [_Reports]
+  
   -> TestResults___main__.HomeTest_2020-10-19_11-05-19.html
+
 => [_Tests]
+  
   -> tests.py
 
 Based on: https://www.youtube.com/watch?v=BURK7wMcCwU&t=2752s
