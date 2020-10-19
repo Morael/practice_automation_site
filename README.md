@@ -14,10 +14,15 @@ POM model at this point:
 
 >[Practice automation]
 => [_Pages]
+  
   -> shopPage_py
+  
   -> homePage.py
+  
   -> loginPage.py
+  
   -> regPage.py
+  
   -> accountPage.py
 => [_Reports]
   -> TestResults___main__.HomeTest_2020-10-19_11-05-19.html
