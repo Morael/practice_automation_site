@@ -8,4 +8,4 @@ For this project I am using test cases from :
 http://practice.automationtesting.in/test-cases/
 
 At this moment I have created 10 tests based on POM model in the table Home Page.
-After I finish all of Home Page test cases, my plan is to create other test cases using pytest module. 
+After I finish all of Home Page test cases (18), my plan is to create other test cases using pytest module. 
