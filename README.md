@@ -13,7 +13,8 @@ After I finish all of Home Page test cases (18), my plan is to create other test
 POM model at this point:
 
 [Practice automation]
-=> [_Pages]
+
+. [_Pages]
   
   .. shopPage_py
   
@@ -25,11 +26,11 @@ POM model at this point:
   
   .. accountPage.py
   
-=> [_Reports]
+. [_Reports]
   
   .. TestResults___main__.HomeTest_2020-10-19_11-05-19.html
 
-=> [_Tests]
+. [_Tests]
   
   .. tests.py
 
