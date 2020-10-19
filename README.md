@@ -11,16 +11,17 @@ At this moment I have created 10 tests based on POM model in the table Home Page
 After I finish all of Home Page test cases (18), my plan is to create other test cases using pytest module. 
 
 POM model at this point:
-[Practice automation]
-=> _Pages
+
+>[Practice automation]
+=> [_Pages]
   -> shopPage_py
   -> homePage.py
   -> loginPage.py
   -> regPage.py
   -> accountPage.py
-=> _Reports
+=> [_Reports]
   -> TestResults___main__.HomeTest_2020-10-19_11-05-19.html
-=> _Tests
+=> [_Tests]
   -> tests.py
 
 Based on: https://www.youtube.com/watch?v=BURK7wMcCwU&t=2752s
